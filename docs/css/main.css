@@ -99,6 +99,11 @@ li{
 .condiments{
     font-weight: 900;   
 }
+@media screen and (orientation: landscape) {
+    body {
+        width: 100vw;
+    }
+}
 /*
 @media (max-width: 73.375em) {
 
